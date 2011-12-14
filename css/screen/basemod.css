@@ -103,15 +103,16 @@
    */
 
 
-  #col1 { width:25%; }
+  #col1 { width:75%; }
   #col1_content { padding:10px 10px 10px 20px; }
 
   #col2 { width:25%; }
   #col2_content { padding:10px 20px 10px 10px; }
 
+  /*
   #col3 { margin:0 25%; }
   #col3_content { padding:10px; }
-
+  */
  /**
   * ------------------------------------------------------------------------------------------------- #
   *

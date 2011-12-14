@@ -14,8 +14,6 @@ h2 {
 }
  
 /*- Menu Tabs--------------------------- */ 
-
-
 #tabs {
   float:left;
   width:100%;
@@ -63,22 +61,13 @@ list-style:none;
 #tabs a.selected {
 	background-position:0% -42px;
 }
-
 #tabs a:hover span {
   background-position:100% -42px;
 }
-
 #tabs a.selected span {
   background-position:100% -42px;
 }
-/*
-#tabs a:hover span {
-  background-position:100% -42px;
-}
-#tabs a:hover {
-	background-position:0% -42px;
-}
-*/
+
 
  
  
